@@ -77,7 +77,7 @@ function NavBar() {
               >
                 <AiOutlineFundProjectionScreen
                   style={{ marginBottom: "2px" }}
-                />{" "}
+                />{"/project "}
                 Projects
               </Nav.Link>
             </Nav.Item>
