@@ -2,8 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
-import Toolstack from "../About/Toolstack";
-import Techstack from "../About/Techstack";
 import {
   AiFillGithub,
   AiOutlineTwitter,
@@ -60,15 +58,7 @@ function Home2() {
             </Tilt>
           </Col>
         </Row>
-        <Row>
-          <h3> Skill</h3>
-        <Techstack />
-
-<h1 className="project-heading">
-  <strong className="purple">Tools</strong> I use
-</h1>
-<Toolstack />
-        </Row>
+       
         <Row>
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
