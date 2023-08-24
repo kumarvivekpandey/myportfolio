@@ -26,7 +26,8 @@ function Projects() {
               imgPath={movie}
               isBlog={false}
               title="movieDB"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="movie details with IMDb: 7.8
+              Release Date and you can search and also check details of movies"
               ghLink="https://github.com/kumarvivekpandey/movieapi"
               demoLink="https://movieapi.kumarvivekpande.repl.co/home"
             />
