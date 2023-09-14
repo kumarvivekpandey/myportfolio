@@ -45,7 +45,7 @@ function Projects() {
               demoLink="https://myportfolio-delta-umber.vercel.app/"
             />
           </Col>
-             {  /*
+          
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={apna}
@@ -56,7 +56,7 @@ function Projects() {
               demoLink="https://apnabazaar-mu.vercel.app/"              
             />
           </Col>
-
+   {  /*
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={leaf}
