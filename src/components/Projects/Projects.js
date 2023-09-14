@@ -39,7 +39,7 @@ function Projects() {
               isBlog={false}
               title="Bits-0f-C0de"
               description="My personal portfolio page build with react.js and Tailwind Css
-               which is the virtual representation of my self .
+               which is the virtual representation of my self ."
               
               ghLink="https://github.com/kumarvivekpandey/myportfolio"
               demoLink="https://myportfolio-delta-umber.vercel.app/"
