@@ -2,10 +2,10 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import gituser from "../../Assets/Projects/gituser.png";
+
 import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
+import apna from "../../Assets/Projects/apna.png";
 import movie from "../../Assets/Projects/movie.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
@@ -34,43 +34,33 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={gituser}
-              isBlog={false}
-              title="GitUserFinder"
-              description="Discover GitHub users effortlessly with our user-friendly application, streamlining your search for developers and their repositories."
-              ghLink="https://github.com/kumarvivekpandey/gituserfinder"
-              demoLink="https://gituserfinder-neon.vercel.app/"
-            />
-          </Col>
-
 
           {  /*
+
          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
               title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css
-               which takes the content from makdown files and renders it using Next.js.
-                Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              description="My personal portfolio page build with react.js and Tailwind Css
+               which is the virtual representation of my self ."
+              
+              ghLink="https://github.com/kumarvivekpandey/myportfolio"
+              demoLink="https://myportfolio-delta-umber.vercel.app/"
             />
           </Col>
           
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={apna}
               isBlog={false}
               title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              description="Online MERN E-Commerce - Admin Panel, Redux Toolkit, Payment Gateway, Cloud Deployment, Emails"
+              ghLink="https://github.com/kumarvivekpandey/Apnabazaar"
+              demoLink="https://apnabazaar-mu.vercel.app/"              
             />
           </Col>
-
+   {  /*
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={leaf}

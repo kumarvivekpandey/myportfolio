@@ -2,7 +2,7 @@
   <a href="https://myportfolio-delta-umber.vercel.app/" target="_blank">VIVEK KUMAR</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="https://media.licdn.com/dms/image/D4D2DAQFsUhHKrVcZAA/profile-treasury-image-shrink_800_800/0/1689626420795?e=1690358400&v=beta&t=SIVVpOPPW8etdntzhQke4gWaFir62EMxhngbTO9WajQ" />
+  <img alt="Demo" src="https://github.com/kumarvivekpandey/myportfolio/blob/main/src/Assets/Projects/blog.png" />
 </div>
 
 <br/>
