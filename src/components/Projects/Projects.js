@@ -50,7 +50,7 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
+              title="My Portfolio"
               description="My personal portfolio page build with react.js and Tailwind Css
                which is the virtual representation of my self ."
               
