@@ -2,6 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
+import gituser from "../../Assets/Projects/gituser.png";
 import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
@@ -32,6 +33,19 @@ function Projects() {
               demoLink="https://movieapi.kumarvivekpande.repl.co/home"
             />
           </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={gituser}
+              isBlog={false}
+              title="GitUserFinder"
+              description="Discover GitHub users effortlessly with our user-friendly application, streamlining your search for developers and their repositories."
+              ghLink="https://github.com/kumarvivekpandey/gituserfinder"
+              demoLink="https://gituserfinder-neon.vercel.app/"
+            />
+          </Col>
+
+
           {  /*
          <Col md={4} className="project-card">
             <ProjectCard
