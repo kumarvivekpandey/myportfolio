@@ -6,7 +6,7 @@ import gituser from "../../Assets/Projects/gituser.png";
 import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
 import apna from "../../Assets/Projects/apna.png";
-import movie from "../../Assets/Projects/movie.png";
+import movie from "../../Assets/Projects/1.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 
