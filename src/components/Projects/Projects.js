@@ -29,8 +29,8 @@ function Projects() {
               title="movieDB"
               description="movie details with IMDb: 7.8
               Release Date and you can search and also check details of movies"
-              ghLink="https://github.com/kumarvivekpandey/movieapi"
-              demoLink="https://movieapi.kumarvivekpande.repl.co/home"
+              ghLink="https://github.com/kumarvivekpandey/movixapp"
+              demoLink="https://movixapp-mu.vercel.app/"
             />
           </Col>
 
